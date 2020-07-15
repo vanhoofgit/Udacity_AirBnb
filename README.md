@@ -1,5 +1,6 @@
 # Udacity_AirBnb
 A data science project on AirBnb data (Seattle and Boston)
+My post on Medium : https://medium.com/@benny.vanhoof/boston-seattle-cf8f14100bd3
 1) Project Motivation
 ***********************
 The aim of the project was to define at least three questions for which the answers can be taken from an Airbnb dataset. Each question should be clearly defined and the answer to every question must be clearly motivated and documented with data science techniques.
